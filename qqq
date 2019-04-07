@@ -1,2 +1,0 @@
-mess='git'
-print  (mess)
